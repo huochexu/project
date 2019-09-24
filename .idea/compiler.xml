@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="student-demo-app" />
+        <module name="student-demo-common-base" />
+        <module name="student-demo-common-impl" />
+        <module name="student-demo-common-inf" />
+        <module name="student-demo-job" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
